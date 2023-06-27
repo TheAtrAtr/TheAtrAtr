@@ -5,16 +5,24 @@
 ```
 **https://cv.hexlet.io/ru/resumes/2826**
 ```sh
-почта: dyadya_atr@mail.ru
+почта:
 ```
+ dyadya_atr@mail.ru
+
 ```sh
 проекты:
 ```
 **https://github.com/TheAtrAtr/java-project-61**
-**https://github.com/TheAtrAtr/java-project-71**
-**https://github.com/TheAtrAtr/java-project-78**
-**https://github.com/TheAtrAtr/java-project-72**
+```sh
 ```
+**https://github.com/TheAtrAtr/java-project-71**
+```sh
+```
+**https://github.com/TheAtrAtr/java-project-78**
+```sh
+```
+**https://github.com/TheAtrAtr/java-project-72**
+
 <!--
 **TheAtrAtr/TheAtrAtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
