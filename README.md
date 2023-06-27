@@ -8,7 +8,7 @@
 мой email:
 ```
 ```sh
- dyadya_atr@mail.ru
+dyadya_atr@mail.ru
 ```
 
 ```sh
