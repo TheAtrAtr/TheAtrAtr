@@ -5,21 +5,29 @@
 ```
 **https://cv.hexlet.io/ru/resumes/2826**
 ```sh
-почта:
+мой email:
 ```
+```sh
  dyadya_atr@mail.ru
+```
 
 ```sh
-проекты:
+мои проекты:
+```
+```sh
+1. Игры разума (5 консольных игр)
 ```
 **https://github.com/TheAtrAtr/java-project-61**
 ```sh
+2. Вычислитель отличий (сравнивает файлы и выдает отличия между ними в разных форматах по выбору)
 ```
 **https://github.com/TheAtrAtr/java-project-71**
 ```sh
+3. Валидатор данных (проверяет данные на соответствие схеме валидации)
 ```
 **https://github.com/TheAtrAtr/java-project-78**
 ```sh
+4. Анализатор web страниц (проверяет доступность указанной страницы, наличие заголовка и описания)
 ```
 **https://github.com/TheAtrAtr/java-project-72**
 
