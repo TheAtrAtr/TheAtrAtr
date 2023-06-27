@@ -1,9 +1,16 @@
 ### Hi there 👋
 ### 🌱 В настоящее время завершаю курс java-разработчик на Хекслет
 ```sh
-резюме на Хекслет https://cv.hexlet.io/ru/resumes/2826
+резюме на Хекслет:
+```
+**https://cv.hexlet.io/ru/resumes/2826**
+```sh
 почта: dyadya_atr@mail.ru
-проекты: **https://github.com/TheAtrAtr/java-project-61**
+```
+```sh
+проекты:
+```
+**https://github.com/TheAtrAtr/java-project-61**
 **https://github.com/TheAtrAtr/java-project-71**
 **https://github.com/TheAtrAtr/java-project-78**
 **https://github.com/TheAtrAtr/java-project-72**
