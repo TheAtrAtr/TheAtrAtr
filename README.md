@@ -30,7 +30,11 @@ dyadya_atr@mail.ru
 4. Анализатор web страниц (проверяет доступность указанной страницы, наличие заголовка и описания)
 ```
 **https://github.com/TheAtrAtr/java-project-72**
-
+```sh
+5. Планировщик задач (позволяет ставить задачи, назначать исполнителей и менять их статусы. Для работы с системой требуется регистрация и аутентификация.)
+```
+**https://github.com/TheAtrAtr/java-project-73**
+```sh
 <!--
 **TheAtrAtr/TheAtrAtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
